@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 public class AddressBook {
     /**
-     * Adding text as a test.
+     * Adding text as a test. Adding text through GIT
      */
     private ArrayList<BuddyInfo> myBuddies;
     public AddressBook(){
