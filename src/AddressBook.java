@@ -25,4 +25,8 @@ public class AddressBook {
         }
         return null;
     }
+
+    public void newMthod(){
+        System.out.println("this is a test method for the new branch");
+    }
 }
